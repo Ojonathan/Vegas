@@ -1,0 +1,15 @@
+﻿/**
+@mainpage Projet Las Vegas
+
+@image html vegas_logo.jpg
+@image latex vegas_logo.jpg
+
+@section intro Introduction
+Les joueurs incarnent des flambeurs tentant leur chance dans le monde tape-à-l’oeil de Las Vegas.
+Six casinos peuvent être visités, chacun d’eux présentant une valeur de dé et une somme totale d’argent pouvant y être gagnée différentes. Round après round, les mêmes questions vont se poser : où devrais-je placer mes dés afin d’obtenir la majorité à cet endroit ? Où mes adversaires vont-ils placer leurs dés ? Et où puis-je peut-être prendre une somme rondelette à un adversaire et la mettre dans mes poches ?
+Mais soyez prudent, ce genre de lutte autour des plus gros billets peut mal tourner – et à la fin, c’est un troisième larron qui en profite !
+Le vainqueur est le joueur le plus riche après quatre rounds.
+
+@author Ordoñez Jonathan
+@date Octobre 2016
+*/
